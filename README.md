@@ -22,15 +22,6 @@
 
   <br><br>
 
-  <h3>🛠 Tools & Technologies</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-
-  <br><br>
-
   <h3>📢 Latest News</h3>
   <div align="left">
   <!-- BLOG-POST-LIST:START -->✅ <a href='https://jeakwon.github.io/homepage-v2/blog/2025/plotly/'>a post with plotly.js</a><br>✅ <a href='https://jeakwon.github.io/homepage-v2/blog/2024/photo-gallery/'>a post with image galleries</a><br>✅ <a href='https://jeakwon.github.io/homepage-v2/blog/2024/google-gemini-updates-flash-15-gemma-2-and-project-astra/'>Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra</a><br>✅ <a href='https://jeakwon.github.io/homepage-v2/blog/2024/tabs/'>a post with tabs</a><br>✅ <a href='https://jeakwon.github.io/homepage-v2/blog/2024/typograms/'>a post with typograms</a><br><!-- BLOG-POST-LIST:END -->
