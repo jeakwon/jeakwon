@@ -1,11 +1,8 @@
 <div align="left">
-
-  <h1>Hi there, I'm Jea Kwon (Jay) 👋</h1>
-  <h3>AI Research Scientist | Postdoc Researcher</h3>
+  <h3>AI Research Scientist | Postdoc Researcher at MPI-SP</h3>
   
   <p>
     I am an AI researcher working at the intersection of <b>Neuroscience and Artificial Intelligence (NeuroAI)</b>.<br>
-    My current research focuses on <b>State Space Models (SSMs)</b>, Post-Transformer architectures, and modeling the Hippocampus.
   </p>
 
   <br>
