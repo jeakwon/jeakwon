@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
   <h1>Hi there, I'm Jea Kwon (Jay) 👋</h1>
   <h3>AI Research Scientist | Postdoc Researcher</h3>
