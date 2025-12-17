@@ -44,13 +44,9 @@
 
   <br>
 
-  <h3>📈 GitHub Activity</h3>
-  <a href="https://github.com/jeakwon">
-    <img src="https://github-readme-stats.vercel.app/api?username=jeakwon&show_icons=true&theme=minimal&hide_border=true&count_private=true" alt="Jea Kwon's GitHub Stats" />
-  </a>
-  <br>
-  <a href="https://github.com/jeakwon">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeakwon&layout=compact&theme=minimal&hide_border=true&langs_count=6" alt="Top Languages" />
-  </a>
-
 </div>
+
+### 📈 GitHub Activity
+![Jea Kwon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeakwon&show_icons=true&theme=minimal&hide_border=true&count_private=true)
+<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeakwon&layout=compact&theme=minimal&hide_border=true&langs_count=6)
