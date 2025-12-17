@@ -34,7 +34,9 @@
 
   <h3>📢 Latest News</h3>
   <div align="left">
-    </div>
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+  </div>
 
   <br>
 
