@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
   <h1>Hi there, I'm Jea Kwon (Jay) 👋</h1>
   <h3>AI Research Scientist | Postdoc Researcher</h3>
@@ -13,10 +13,10 @@
   <a href="https://jeakwon.github.io/homepage-v2/">
     <img src="https://img.shields.io/badge/Personal_Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
-  <a href="https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID">
+  <a href="https://scholar.google.com/citations?user=6I0mg_EAAAAJ">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:onlytojay@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
