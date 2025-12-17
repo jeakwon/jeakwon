@@ -34,12 +34,7 @@
 
   <h3>📢 Latest News</h3>
   <div align="left">
-  <!-- BLOG-POST-LIST:START -->
-✅ <a href='https://jeakwon.github.io/homepage-v2/blog/2025/plotly/'>a post with plotly.js</a>
-✅ <a href='https://jeakwon.github.io/homepage-v2/blog/2024/photo-gallery/'>a post with image galleries</a>
-✅ <a href='https://jeakwon.github.io/homepage-v2/blog/2024/google-gemini-updates-flash-15-gemma-2-and-project-astra/'>Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra</a>
-✅ <a href='https://jeakwon.github.io/homepage-v2/blog/2024/tabs/'>a post with tabs</a>
-✅ <a href='https://jeakwon.github.io/homepage-v2/blog/2024/typograms/'>a post with typograms</a><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START -->✅ <a href='https://jeakwon.github.io/homepage-v2/blog/2025/plotly/'>a post with plotly.js</a><br>✅ <a href='https://jeakwon.github.io/homepage-v2/blog/2024/photo-gallery/'>a post with image galleries</a><br>✅ <a href='https://jeakwon.github.io/homepage-v2/blog/2024/google-gemini-updates-flash-15-gemma-2-and-project-astra/'>Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra</a><br>✅ <a href='https://jeakwon.github.io/homepage-v2/blog/2024/tabs/'>a post with tabs</a><br>✅ <a href='https://jeakwon.github.io/homepage-v2/blog/2024/typograms/'>a post with typograms</a><br><!-- BLOG-POST-LIST:END -->
   </div>
 
   <br>
