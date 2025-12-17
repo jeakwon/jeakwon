@@ -17,4 +17,4 @@ jobs:
           # al-folio 테마는 보통 /feed.xml 에 피드가 있습니다.
           feed_list: "https://jeakwon.github.io/homepage-v2/feed.xml"
           max_post_count: 5 # 최근 5개만 표시
-          template: "$newline✅ <a href='$url'>$title</a>"
+          template: "✅ <a href='$url'>$title</a><br>"
