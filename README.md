@@ -28,7 +28,11 @@
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white"/>
-
+  
+  <br><br>
+  
+  <h3>📢 Latest News</h3>
+  
   <br><br>
 
   <h3>📈 GitHub Activity</h3>
