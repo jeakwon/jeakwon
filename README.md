@@ -50,5 +50,5 @@
 
   <a href="https://github.com/jeakwon">
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeakwon&layout=compact&theme=minimal&hide_border=true&langs_count=6" alt="Top Languages"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeakwon&layout=compact&theme=minimal&hide_border=true&langs_count=6" alt="Top Languages"/>
 </div>
