@@ -1,0 +1,19 @@
+name: Latest News Update
+on:
+  schedule:
+    # 매일 자정(00:00 UTC)에 자동으로 실행
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 수동으로 버튼 눌러서 실행 가능하게 함
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          # 여기에 본인 홈페이지의 피드 주소를 넣습니다.
+          # al-folio 테마는 보통 /feed.xml 에 피드가 있습니다.
+          feed_list: "https://jeakwon.github.io/homepage-v2/feed.xml"
+          max_post_count: 5 # 최근 5개만 표시
