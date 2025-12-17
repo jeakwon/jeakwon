@@ -35,7 +35,12 @@
   <h3>📢 Latest News</h3>
   <div align="left">
   <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+- [a post with plotly.js](https://jeakwon.github.io/homepage-v2/blog/2025/plotly/)
+- [a post with image galleries](https://jeakwon.github.io/homepage-v2/blog/2024/photo-gallery/)
+- [Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra](https://jeakwon.github.io/homepage-v2/blog/2024/google-gemini-updates-flash-15-gemma-2-and-project-astra/)
+- [a post with tabs](https://jeakwon.github.io/homepage-v2/blog/2024/tabs/)
+- [a post with typograms](https://jeakwon.github.io/homepage-v2/blog/2024/typograms/)
+<!-- BLOG-POST-LIST:END -->
   </div>
 
   <br>
