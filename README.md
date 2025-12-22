@@ -7,7 +7,7 @@
 
   <br>
 
-  <a href="https://jeakwon.github.io/homepage-v2/">
+  <a href="https://jeakwon.github.io/">
     <img src="https://img.shields.io/badge/Personal_Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
   <a href="https://scholar.google.com/citations?user=6I0mg_EAAAAJ">
