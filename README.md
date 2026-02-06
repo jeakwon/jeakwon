@@ -1,26 +1,32 @@
-<div align="left">
-  <h3>AI Research Scientist | Postdoc Researcher at MPI-SP</h3>
-  
-  <p>
-    I am an AI researcher working at the intersection of <b>Neuroscience and Artificial Intelligence (NeuroAI)</b>.<br>
-  </p>
+### Jea (Jay) Kwon
 
-  <br>
+Postdoctoral Researcher at [Max Planck Institute for Security and Privacy (MPI-SP)](https://www.mpi-sp.org/)
 
-  <a href="https://jeakwon.github.io/">
-    <img src="https://img.shields.io/badge/Personal_Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-  <a href="https://scholar.google.com/citations?user=6I0mg_EAAAAJ">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-  </a>
-  <a href="mailto:onlytojay@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+I work at the intersection of **neuroscience and artificial intelligence**. My research explores how principles from the brain — memory, learning, behavior — can inform the design of more capable and aligned AI systems.
 
-  <br><br>
+[![Website](https://img.shields.io/badge/Website-jeakwon.github.io-000?style=flat-square&logo=About.me&logoColor=white)](https://jeakwon.github.io/)
+[![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=6I0mg_EAAAAJ)
+[![Email](https://img.shields.io/badge/Email-onlytojay@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:onlytojay@gmail.com)
 
-  <h3>📢 Latest News</h3>
-  <div align="left">
-  <!-- BLOG-POST-LIST:START -->✅ <a href='https://jeakwon.github.io/homepage-v2/blog/2025/plotly/'>a post with plotly.js</a><br>✅ <a href='https://jeakwon.github.io/homepage-v2/blog/2024/photo-gallery/'>a post with image galleries</a><br>✅ <a href='https://jeakwon.github.io/homepage-v2/blog/2024/google-gemini-updates-flash-15-gemma-2-and-project-astra/'>Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra</a><br>✅ <a href='https://jeakwon.github.io/homepage-v2/blog/2024/tabs/'>a post with tabs</a><br>✅ <a href='https://jeakwon.github.io/homepage-v2/blog/2024/typograms/'>a post with typograms</a><br><!-- BLOG-POST-LIST:END -->
-  </div>
-</div>
+---
+
+#### News
+
+- **2026.01** — Two papers accepted at **ICLR 2026**
+- **2025.11** — Paper accepted at **AAAI 2026**: *Dropouts in Confidence: Moral Uncertainty in Human-LLM Alignment*
+- **2025.01** — Paper accepted at **ICLR 2025**: *Brain-inspired Lp-Convolution Benefits Large Kernels*
+- **2024.01** — Joined **MPI-SP** as Postdoctoral Researcher
+
+#### Selected Publications
+
+| Year | Venue | Title |
+|:----:|:-----:|-------|
+| 2026 | EMM | Cerebellar Tonic Inhibition Orchestrates the Maturation of Information Processing and Motor Coordination |
+| 2026 | AAAI | Dropouts in Confidence: Moral Uncertainty in Human-LLM Alignment |
+| 2025 | ICLR | Brain-inspired Lp-Convolution Benefits Large Kernels and Aligns Better with Visual Cortex |
+| 2024 | IJCV | SUBTLE: An Unsupervised Platform with Temporal Link Embedding that Maps Animal Behavior |
+| 2024 | Exp Neurobiol | Egocentric 3D Skeleton Learning Encodes Obese-like Motion Representations |
+| 2023 | NeurIPS | Transformer as a Hippocampal Memory Consolidation Model Based on NMDAR-Inspired Nonlinearity |
+| 2021 | Mol Brain | Retina-Attached Slice Recording Reveals Light-Triggered Tonic GABA Signaling in SCN |
+
+Full list at [jeakwon.github.io/publications](https://jeakwon.github.io/publications/)
